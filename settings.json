@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "hubartemis435.mcsh.io",
-    "port": 458482,
+    "ip": "191.96.231.14",
+    "port": 12288,
     "version": "1.21.11",
     "try-creative": false
   },
